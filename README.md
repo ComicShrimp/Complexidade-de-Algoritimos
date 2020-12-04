@@ -12,7 +12,7 @@ Repositório para os códigos para o trabalho final de Complexidade de Algoritim
 
 ## Todo
 
-- [ ] Fazer com que o algoritimo de subesetSum retorne os valores que ele econtrou
+- [x] Fazer com que o algoritimo de subesetSum retorne os valores que ele econtrou
 - [ ] Refatorar as variaveis do intervalos Disjuntos
-- [ ] Refatorar arquivo de subsetSum
+- [x] Refatorar arquivo de subsetSum
 - [ ] Criar Documento com a explicação
